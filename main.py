@@ -34,3 +34,5 @@ canvas.create_polygon(10, 150,
                       10, 250,
                       fill='blue',
                       outline='yellow')
+
+tk.mainloop()
